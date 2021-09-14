@@ -1,0 +1,16 @@
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.exe
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.deps.json
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.runtimeconfig.json
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.runtimeconfig.dev.json
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.dll
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\ref\Electrodomesticos.dll
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\net5.0\Electrodomesticos.pdb
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfoInputs.cache
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.AssemblyInfo.cs
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.dll
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\ref\Electrodomesticos.dll
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.pdb
+C:\Users\delac\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\net5.0\Electrodomesticos.genruntimeconfig.cache
